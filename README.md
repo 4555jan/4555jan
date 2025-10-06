@@ -6,14 +6,7 @@ I'm passionate about building scalable, modern applications — from mobile apps
 
 ---
 
-### 🚀 Tech Stack
 
-* **Frontend:** Flutter, React.js, HTML, CSS, JavaScript
-* **Backend:** Node.js, Express.js
-* **Databases & Cloud:** Firebase (Auth, Firestore, Functions), MongoDB
-* **Other:** Git, REST APIs, Appwrite
-
----
 ### 🚀 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
