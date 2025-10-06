@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Janvi 👋
 
-<!--
-**4555jan/4555jan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer | Flutter Enthusiast | Firebase Expert**
 
-Here are some ideas to get you started:
+I'm passionate about building scalable, modern applications — from mobile apps with **Flutter + Dart** to web platforms using the **MERN stack**. I love experimenting with cloud technologies and creating clean, maintainable codebases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+* **Frontend:** Flutter, React.js, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Databases & Cloud:** Firebase (Auth, Firestore, Functions), MongoDB
+* **Other:** Git, REST APIs, Appwrite
+
+---
+
+### 📌 Featured Projects
+
+* **Naari** – JavaScript-based app
+* **DIRAK** – Cross-platform project with Dart
+
+---
+
+### 🤝 Contributions & Open Source
+
+* Contributed to **[Resonate](https://github.com/AOSSIE-Org/Resonate)** – an open-source social voice platform
+
+
+---
+
+### 🌱 Currently Exploring
+
+* Advanced Firebase integrations
+* Cloud Functions & serverless apps
+* Open-source collaborations
+
+---
+
+### 📫 Let's Connect
+
+* GitHub: [4555jan](https://github.com/4555jan)
+* Discord: Active in dev communities
+
+---
+
+✨ *Always learning. Always building.*
+
