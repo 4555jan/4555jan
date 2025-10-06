@@ -33,7 +33,7 @@ I'm passionate about building scalable, modern applications — from mobile apps
 
 * Advanced Firebase integrations
 * Cloud Functions & serverless apps
-* Open-source collaborations
+
 
 ---
 
