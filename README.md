@@ -5,7 +5,7 @@
 I'm passionate about building scalable, modern applications — from mobile apps with **Flutter + Dart** to web platforms using the **MERN stack**. I love experimenting with cloud technologies and creating clean, maintainable codebases.
 
 ---
-
+https://holopin.me/jan4555
 
 ### 🚀 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
