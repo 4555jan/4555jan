@@ -1,6 +1,6 @@
 # Hi there, I'm Janvi 👋
 
-💻 **Full-Stack Developer | Flutter Enthusiast | Firebase Expert**
+💻 **Full-Stack Developer | Flutter Enthusiast
 
 I'm passionate about building scalable, modern applications — from mobile apps with **Flutter + Dart** to web platforms using the **MERN stack**. I love experimenting with cloud technologies and creating clean, maintainable codebases.
 
